@@ -1,6 +1,6 @@
 {
   "name": "ember-idx-forms",
-  "version": "0.6.0",
+  "version": "0.6.0-photon-patch-1",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -38,7 +38,8 @@
   },
   "description": "Intuitive, Smart and Beautiful Forms for Ember.js",
   "authors": [
-    "Indexia Technologies, ltd."
+    "Indexia Technologies, ltd.",
+    "Photon79 <photon79@gmail.com>"
   ],
   "keywords": [
     "ember-addon"
