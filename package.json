@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/indexiatech/ember-forms.git"
+    "url": "http://github.com/Photon79/ember-forms.git"
   },
   "engines": {
     "node": ">= 0.10.0"
